@@ -1,0 +1,15 @@
+#productspec{
+
+    width: 60%;
+    height: 600px;
+    margin: 20px auto;
+   
+    padding: 15px;
+}
+#productspecimage{
+
+    width: 70%;
+    margin-top: 20px;
+    height: 300px;
+   
+}
